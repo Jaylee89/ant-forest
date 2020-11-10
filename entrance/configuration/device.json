@@ -1,0 +1,19 @@
+{
+    "screen": {
+        "width": "",
+        "height": ""
+    },
+    "steps": [
+        "me",
+        "scroll next page",
+        "until see 查看更多好友 and click",
+        "match collectable hand logo or help someone to collect",
+        "matched with a list",
+        "get point and trigger click event foreach",
+        "match 可收取 hand logo, will get a list for point",
+        "one by one to trigger click event",
+        "go back friend list",
+        "scroll next page",
+        "until get 没有更多了"
+    ]
+}
